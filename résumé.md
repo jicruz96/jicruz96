@@ -3,7 +3,7 @@ José Israel "J.I." Cruz
 *Community organizer turned software developer*
 | 📧 | 🌐 | 📞 |
 |-|-|-|
-|  ji@jicruz.com | jicruz.com \| github.com/jicruz96 \| linkedin.com/in/jicruzpr |  +1 787-685-4961
+|  ji@jicruz.com | jicruz.com \| ![gh-logo](./GitHub-Mark-32px.png)[jicruz96](./https://github.com/jicruz96) \| ![li-logo](./linkedin-icon.png)linkedin.com/in/jicruzpr |  +1 787-685-4961
 
 
 Education
