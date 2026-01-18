@@ -1,6 +1,6 @@
 [![J.I.'s GitHub stats](https://github-readme-stats-psi-nine-74.vercel.app/api?username=jicruz96&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://gitroll.io/profile/uLL7lVXZMsSNjcFGjqO06GxoTcu73" target="_blank"><img style="width: 500px" src="https://gitroll.io/api/badges/profiles/v1/uLL7lVXZMsSNjcFGjqO06GxoTcu73" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/uLL7lVXZMsSNjcFGjqO06GxoTcu73" target="_blank"><img style="width: 500px" src="https://gitroll.io/api/badges/profiles/v1/uLL7lVXZMsSNjcFGjqO06GxoTcu73" alt="GitRoll Profile Badge"/></a> -->
 
 <!--
 **jicruz96/jicruz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
